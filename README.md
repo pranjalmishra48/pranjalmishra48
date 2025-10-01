@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
 <!-- <h2 align="center">A Full Stack Developer!!</h2> -->
-<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pranjal+Mishra;A+Full+Stack+Developer!;Compiling+coffee+into+creativity!" /> </p>
+<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pranjal+Mishra.;A+Full+Stack+Developer!;Compiling+coffee+into+creativity!" /> </p>
 
 <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" >
 
