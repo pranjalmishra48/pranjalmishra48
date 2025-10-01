@@ -15,6 +15,13 @@
 <p align="left">
 <a href="https://instagram.com/_pranjal_.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranjal_.23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Pranjal1901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pranjal1901" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pranjal-mishra-b65371254" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+       alt="Pranjal1901"
+       height="30" width="40" />
+</a>
+
 </p>
 
 # 💻 Languages and Tools:
